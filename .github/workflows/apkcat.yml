@@ -4,7 +4,8 @@
 # tools/apkcat/, with its tests); this repository only runs it, because
 # GitHub runs scheduled workflows from a default branch. Every day it
 # reads Alpine's index (v3.24, main and community, armhf) and publishes
-# the catalogue again, to the gh-pages branch, only when the index (or the generator) has changed.
+# the catalogue again, to the gh-pages branch, only when the index (or
+# the generator) has changed.
 #   https://danieledge.github.io/psilinux-apkcat/apk/v3.24/armhf/stats
 # Pages serves the gh-pages branch (Settings > Pages > Deploy from a branch,
 # gh-pages, / (root)). Run it by hand from Actions > apkcat > Run workflow
