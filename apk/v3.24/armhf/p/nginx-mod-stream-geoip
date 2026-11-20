@@ -1,0 +1,15 @@
+name	nginx-mod-stream-geoip
+version	1.30.7-r0
+description	Nginx module stream-geoip
+url	https://www.nginx.org/
+license	BSD-2-Clause
+size	6013
+installed-size	10138
+depends	nginx=1.30.7-r0 so:libGeoIP.so.1 so:libc.musl-armhf.so.1
+origin	nginx
+repo	main
+file	nginx-mod-stream-geoip-1.30.7-r0.apk
+checksum	Q1uAvy1g6PVmR7tcakB+bfWHHCt2U=
+dep	nginx=1.30.7-r0	nginx
+dep	so:libGeoIP.so.1	geoip
+dep	so:libc.musl-armhf.so.1	musl

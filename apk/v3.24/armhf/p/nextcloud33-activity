@@ -1,0 +1,13 @@
+name	nextcloud33-activity
+version	33.0.11-r0
+description	Nextcloud Activity app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	2361857
+installed-size	10393359
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-activity-33.0.11-r0.apk
+checksum	Q1qPsaSsfYCRrSQnR4gQC1jWXoJOA=
+dep	nextcloud33	nextcloud33

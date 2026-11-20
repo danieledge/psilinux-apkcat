@@ -1,0 +1,12 @@
+name	snowflake-doc
+version	2.15.4-r0
+description	Pluggable Transport for Tor using WebRTC (documentation)
+url	https://snowflake.torproject.org/
+license	BSD-3-Clause
+size	12968
+installed-size	35745
+depends	
+origin	snowflake
+repo	community
+file	snowflake-doc-2.15.4-r0.apk
+checksum	Q1duaRoy0Ag8OXKHocmSZCmnGKh8w=

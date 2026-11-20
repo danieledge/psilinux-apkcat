@@ -1,0 +1,14 @@
+name	nginx-mod-http-headers-more
+version	1.30.7-r0
+description	Nginx third-party module http-headers-more (version v0.40)
+url	https://github.com/openresty/headers-more-nginx-module
+license	BSD-2-Clause
+size	10433
+installed-size	18562
+depends	nginx=1.30.7-r0 so:libc.musl-armhf.so.1
+origin	nginx
+repo	main
+file	nginx-mod-http-headers-more-1.30.7-r0.apk
+checksum	Q1Yy5ImBBqFrxHuzfLIRwDIXbt93s=
+dep	nginx=1.30.7-r0	nginx
+dep	so:libc.musl-armhf.so.1	musl

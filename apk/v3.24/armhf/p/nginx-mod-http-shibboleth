@@ -1,0 +1,14 @@
+name	nginx-mod-http-shibboleth
+version	1.30.7-r0
+description	Nginx third-party module http-shibboleth (version v2.0.2)
+url	https://github.com/nginx-shib/nginx-http-shibboleth
+license	BSD-2-Clause
+size	6068
+installed-size	9889
+depends	nginx=1.30.7-r0 so:libc.musl-armhf.so.1
+origin	nginx
+repo	main
+file	nginx-mod-http-shibboleth-1.30.7-r0.apk
+checksum	Q1e3PZz4cpKNfTS4RDj/xQh6xPxoM=
+dep	nginx=1.30.7-r0	nginx
+dep	so:libc.musl-armhf.so.1	musl

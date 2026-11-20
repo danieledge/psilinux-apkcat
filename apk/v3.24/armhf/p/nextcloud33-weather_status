@@ -1,0 +1,13 @@
+name	nextcloud33-weather_status
+version	33.0.11-r0
+description	Nextcloud Weather status app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	98053
+installed-size	1395737
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-weather_status-33.0.11-r0.apk
+checksum	Q1DV80lMLmkYrq/3y+UZbtg6NfjOE=
+dep	nextcloud33	nextcloud33

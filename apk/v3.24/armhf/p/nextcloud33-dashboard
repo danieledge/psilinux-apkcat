@@ -1,0 +1,13 @@
+name	nextcloud33-dashboard
+version	33.0.11-r0
+description	Nextcloud Dashboard app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	68487
+installed-size	345263
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-dashboard-33.0.11-r0.apk
+checksum	Q1srwr3DKfBm/F5QvEVEsNkJSfG48=
+dep	nextcloud33	nextcloud33

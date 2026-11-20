@@ -1,0 +1,13 @@
+name	nextcloud33-comments
+version	33.0.11-r0
+description	Nextcloud Comments app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	76038
+installed-size	389782
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-comments-33.0.11-r0.apk
+checksum	Q1WxfPJ7ZNU2ydistHBDGWWSpS3L4=
+dep	nextcloud33	nextcloud33

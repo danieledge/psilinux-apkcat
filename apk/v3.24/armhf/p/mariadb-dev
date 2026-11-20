@@ -1,0 +1,18 @@
+name	mariadb-dev
+version	11.8.10-r0
+description	A fast SQL database server (development files)
+url	https://www.mariadb.org/
+license	GPL-2.0-only
+size	1586132
+installed-size	6829736
+depends	fmt-dev mariadb-connector-c-dev openssl-dev zlib-dev mariadb-embedded=11.8.10-r0 pkgconfig
+origin	mariadb
+repo	main
+file	mariadb-dev-11.8.10-r0.apk
+checksum	Q1z2mt6mpClYRhbQDx1L6Vprj1ygo=
+dep	fmt-dev	fmt-dev
+dep	mariadb-connector-c-dev	mariadb-connector-c-dev
+dep	openssl-dev	openssl-dev
+dep	zlib-dev	zlib-dev
+dep	mariadb-embedded=11.8.10-r0	mariadb-embedded
+dep	pkgconfig	pkgconf

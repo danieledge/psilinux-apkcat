@@ -1,0 +1,13 @@
+name	nextcloud33-support
+version	33.0.11-r0
+description	Nextcloud Support app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	308305
+installed-size	1675806
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-support-33.0.11-r0.apk
+checksum	Q1t2U1lORdklesczeFPg7/BQ4CIrg=
+dep	nextcloud33	nextcloud33

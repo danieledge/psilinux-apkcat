@@ -1,0 +1,12 @@
+name	libxml2-dbg
+version	2.13.9-r3
+description	XML parsing library, version 2 (debug symbols)
+url	https://gitlab.gnome.org/GNOME/libxml2
+license	MIT
+size	1639863
+installed-size	3841728
+depends	!libxml2-utils<2.13.9-r3 !libxml2-utils>2.13.9-r3 !libxml2<2.13.9-r3 !libxml2>2.13.9-r3 !py3-libxml2<2.13.9-r3 !py3-libxml2>2.13.9-r3
+origin	libxml2
+repo	main
+file	libxml2-dbg-2.13.9-r3.apk
+checksum	Q19RuV2FdKRAtPiq9WtrJvFgS7IRE=

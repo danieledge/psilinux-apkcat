@@ -1,0 +1,13 @@
+name	nextcloud33-files_external
+version	33.0.11-r0
+description	Nextcloud External storage support app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	279319
+installed-size	1872046
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-files_external-33.0.11-r0.apk
+checksum	Q1tB0Jy02okh+Gigj0LETll6e7Q1Q=
+dep	nextcloud33	nextcloud33

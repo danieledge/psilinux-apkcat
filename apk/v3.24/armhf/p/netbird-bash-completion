@@ -1,0 +1,12 @@
+name	netbird-bash-completion
+version	0.81.5-r0
+description	Bash completions for netbird
+url	https://netbird.io/
+license	BSD-3-Clause
+size	7309
+installed-size	49359
+depends	
+origin	netbird
+repo	community
+file	netbird-bash-completion-0.81.5-r0.apk
+checksum	Q1+Pdinek5i9vZAFvze/g/ZYR+Rhc=

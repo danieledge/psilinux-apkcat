@@ -1,0 +1,12 @@
+name	snowflake-proxy-doc
+version	2.15.4-r0
+description	Pluggable Transport for Tor using WebRTC - proxy (man page)
+url	https://snowflake.torproject.org/
+license	BSD-3-Clause
+size	2218
+installed-size	522
+depends	
+origin	snowflake
+repo	community
+file	snowflake-proxy-doc-2.15.4-r0.apk
+checksum	Q1bHUfjlhetm/N7oV2g1OcIPGC9o4=

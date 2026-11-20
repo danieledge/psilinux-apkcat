@@ -1,0 +1,16 @@
+name	mariadb-server-utils
+version	11.8.10-r0
+description	Non-essential server utilities for MariaDB/MySQL applications
+url	https://www.mariadb.org/
+license	GPL-2.0-only
+size	2961509
+installed-size	13409533
+depends	perl mariadb-common=11.8.10-r0 so:libc.musl-armhf.so.1 so:libgcc_s.so.1
+origin	mariadb
+repo	main
+file	mariadb-server-utils-11.8.10-r0.apk
+checksum	Q1wT+HTfk9/tgQb1FA1eOpH5vmAK4=
+dep	perl	perl
+dep	mariadb-common=11.8.10-r0	mariadb-common
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libgcc_s.so.1	libgcc

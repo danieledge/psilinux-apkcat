@@ -1,0 +1,12 @@
+name	pnpm-bash-completion
+version	11.28.13-r0
+description	Bash completions for pnpm
+url	https://pnpm.io
+license	MIT
+size	2002
+installed-size	994
+depends	
+origin	pnpm
+repo	community
+file	pnpm-bash-completion-11.28.13-r0.apk
+checksum	Q1rLt89K7SlGmWBbIA7DXgcRiVK1Y=

@@ -1,0 +1,14 @@
+name	mariadb-client-perl
+version	11.8.10-r0
+description	Client for the MariaDB database (perl tools)
+url	https://www.mariadb.org/
+license	GPL-2.0-only
+size	32497
+installed-size	125273
+depends	mariadb-client=11.8.10-r0 perl
+origin	mariadb
+repo	main
+file	mariadb-client-perl-11.8.10-r0.apk
+checksum	Q10qj/YqBJxo0hfO5RZ9/FrYX+Z6c=
+dep	mariadb-client=11.8.10-r0	mariadb-client
+dep	perl	perl

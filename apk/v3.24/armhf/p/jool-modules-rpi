@@ -1,0 +1,13 @@
+name	jool-modules-rpi
+version	6.18.64-r0
+description	SIIT and NAT64 for Linux (kernel modules for linux-rpi)
+url	https://nicmx.github.io/Jool/
+license	GPL-2.0-or-later
+size	78213
+installed-size	76036
+depends	linux-rpi=6.18.64-r0
+origin	jool-modules-rpi
+repo	community
+file	jool-modules-rpi-6.18.64-r0.apk
+checksum	Q1fZhpivtVjgUVK8VZpY2uF0XB8DA=
+dep	linux-rpi=6.18.64-r0	linux-rpi

@@ -1,0 +1,27 @@
+name	grocy
+version	4.7.1-r0
+description	web-based self-hosted groceries & household management solution for your home
+url	https://grocy.info/
+license	MIT
+size	77230292
+installed-size	274478827
+depends	php85 php85-fpm php85-ctype php85-fileinfo php85-gd php85-iconv php85-intl php85-mbstring php85-pdo_sqlite php85-simplexml php85-sqlite3 php85-tokenizer php85-phar php85-openssl sqlite
+origin	grocy
+repo	community
+file	grocy-4.7.1-r0.apk
+checksum	Q1kSwHwx2QKgLk/1+X98tjiZ//FKw=
+dep	php85	php85
+dep	php85-fpm	php85-fpm
+dep	php85-ctype	php85-ctype
+dep	php85-fileinfo	php85-fileinfo
+dep	php85-gd	php85-gd
+dep	php85-iconv	php85-iconv
+dep	php85-intl	php85-intl
+dep	php85-mbstring	php85-mbstring
+dep	php85-pdo_sqlite	php85-pdo_sqlite
+dep	php85-simplexml	php85-simplexml
+dep	php85-sqlite3	php85-sqlite3
+dep	php85-tokenizer	php85-tokenizer
+dep	php85-phar	php85-phar
+dep	php85-openssl	php85-openssl
+dep	sqlite	sqlite

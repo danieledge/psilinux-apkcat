@@ -1,0 +1,13 @@
+name	pnpm
+version	11.28.13-r0
+description	Fast, disk space efficient package manager
+url	https://pnpm.io
+license	MIT
+size	7713327
+installed-size	35031580
+depends	nodejs
+origin	pnpm
+repo	community
+file	pnpm-11.28.13-r0.apk
+checksum	Q1G+RxId9Hl0XVHncwk295BAO/v+E=
+dep	nodejs	nodejs

@@ -1,0 +1,12 @@
+name	netbird-doc
+version	0.81.5-r0
+description	WireGuard-based overlay network and mesh VPN (documentation)
+url	https://netbird.io/
+license	BSD-3-Clause
+size	2624
+installed-size	1788
+depends	
+origin	netbird
+repo	community
+file	netbird-doc-0.81.5-r0.apk
+checksum	Q1OpQjq8pK37VC58JaN3iAW6IwWs4=

@@ -1,0 +1,14 @@
+name	nginx-mod-http-naxsi
+version	1.30.7-r0
+description	Nginx third-party module http-naxsi (version 1.7)
+url	https://github.com/wargio/naxsi
+license	BSD-2-Clause
+size	100639
+installed-size	323986
+depends	nginx=1.30.7-r0 so:libc.musl-armhf.so.1
+origin	nginx
+repo	main
+file	nginx-mod-http-naxsi-1.30.7-r0.apk
+checksum	Q1sa8laL+77Gt7anFiO865xa/nMFU=
+dep	nginx=1.30.7-r0	nginx
+dep	so:libc.musl-armhf.so.1	musl

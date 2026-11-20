@@ -1,0 +1,12 @@
+name	php83-doc
+version	8.3.37-r0
+description	The PHP83 language runtime engine (documentation)
+url	https://www.php.net/
+license	PHP-3.01 BSD-3-Clause LGPL-2.0-or-later MIT Zend-2.0
+size	81080
+installed-size	225875
+depends	
+origin	php83
+repo	community
+file	php83-doc-8.3.37-r0.apk
+checksum	Q1423z5wvN4k+cDEIK6+KkYThO2uo=
