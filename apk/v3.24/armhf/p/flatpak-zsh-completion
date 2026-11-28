@@ -1,0 +1,12 @@
+name	flatpak-zsh-completion
+version	1.16.6_git20261120-r0
+description	Zsh completions for flatpak
+url	https://flatpak.org/
+license	LGPL-2.1-or-later
+size	1931
+installed-size	643
+depends	
+origin	flatpak
+repo	community
+file	flatpak-zsh-completion-1.16.6_git20261120-r0.apk
+checksum	Q1NviHWfyDzXbyO1BaxIyNkhE5GZ0=

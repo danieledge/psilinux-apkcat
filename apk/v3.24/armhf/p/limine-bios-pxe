@@ -1,0 +1,13 @@
+name	limine-bios-pxe
+version	12.11.2-r0
+description	Modern, secure, portable, multiprotocol bootloader and boot manager (BIOS PXE executable)
+url	https://limine-bootloader.org
+license	BSD-2-Clause
+size	27706
+installed-size	25976
+depends	limine-bios=12.11.2-r0
+origin	limine
+repo	main
+file	limine-bios-pxe-12.11.2-r0.apk
+checksum	Q13l70n8XsxJ6tlLXymWcrYJhAUiI=
+dep	limine-bios=12.11.2-r0	limine-bios

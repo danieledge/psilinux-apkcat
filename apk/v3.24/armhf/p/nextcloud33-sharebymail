@@ -1,0 +1,13 @@
+name	nextcloud33-sharebymail
+version	33.0.11-r0
+description	Nextcloud Share by mail app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	94099
+installed-size	629944
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-sharebymail-33.0.11-r0.apk
+checksum	Q1uFeM4eH4RCN6r1iFPRedne/3NwQ=
+dep	nextcloud33	nextcloud33

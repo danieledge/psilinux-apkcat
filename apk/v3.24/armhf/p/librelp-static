@@ -1,0 +1,13 @@
+name	librelp-static
+version	1.13.0-r0
+description	The Reliable Event Logging Protocol library (static library)
+url	https://www.rsyslog.com
+license	GPL-3.0-or-later
+size	40312
+installed-size	107646
+depends	librelp-dev
+origin	librelp
+repo	main
+file	librelp-static-1.13.0-r0.apk
+checksum	Q1Lt6oU6M/OX65Pug2Eoqhyf5W1+8=
+dep	librelp-dev	librelp-dev

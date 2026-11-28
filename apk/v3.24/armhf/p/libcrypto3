@@ -1,0 +1,13 @@
+name	libcrypto3
+version	3.5.9-r1
+description	Crypto library from openssl
+url	https://www.openssl.org/
+license	Apache-2.0
+size	1656278
+installed-size	3683718
+depends	so:libc.musl-armhf.so.1
+origin	openssl
+repo	main
+file	libcrypto3-3.5.9-r1.apk
+checksum	Q1A6aYc7kt2BOd33D0Gifj5C/XhBE=
+dep	so:libc.musl-armhf.so.1	musl

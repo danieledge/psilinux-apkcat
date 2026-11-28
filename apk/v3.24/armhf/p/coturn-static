@@ -1,0 +1,13 @@
+name	coturn-static
+version	4.19.2-r0
+description	Free open source implementation of TURN and STUN Server (static library)
+url	https://github.com/coturn/coturn
+license	BSD-3-Clause
+size	100430
+installed-size	231698
+depends	coturn-dev
+origin	coturn
+repo	community
+file	coturn-static-4.19.2-r0.apk
+checksum	Q12dvnoggJFG3klyRYIPgwYikq3eE=
+dep	coturn-dev	coturn-dev

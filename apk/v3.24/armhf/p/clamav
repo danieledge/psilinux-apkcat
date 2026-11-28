@@ -1,0 +1,20 @@
+name	clamav
+version	1.4.7-r0
+description	An anti-virus toolkit for UNIX eis-ng backport
+url	https://www.clamav.net/
+license	GPL-2.0-only
+size	540221
+installed-size	1212708
+depends	clamav-scanner clamav-daemon so:libc.musl-armhf.so.1 so:libclamav.so.12 so:libcurl.so.4 so:libfts.so.0 so:libgcc_s.so.1 so:libjson-c.so.5
+origin	clamav
+repo	community
+file	clamav-1.4.7-r0.apk
+checksum	Q1oM6AxCPRXgdK06jr8DFWLNBNx0M=
+dep	clamav-scanner	clamav-scanner
+dep	clamav-daemon	clamav-daemon
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libclamav.so.12	clamav-libs
+dep	so:libcurl.so.4	libcurl
+dep	so:libfts.so.0	musl-fts
+dep	so:libgcc_s.so.1	libgcc
+dep	so:libjson-c.so.5	json-c

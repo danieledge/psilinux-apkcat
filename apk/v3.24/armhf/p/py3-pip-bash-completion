@@ -1,0 +1,12 @@
+name	py3-pip-bash-completion
+version	26.1.2-r1
+description	Bash completions for py3-pip
+url	https://pip.pypa.io
+license	MIT
+size	1766
+installed-size	299
+depends	
+origin	py3-pip
+repo	main
+file	py3-pip-bash-completion-26.1.2-r1.apk
+checksum	Q1LDHm9dbHQAOKWPem6Z7NGRm3gMQ=

@@ -1,0 +1,13 @@
+name	nextcloud33-nextcloud_announcements
+version	33.0.11-r0
+description	Nextcloud Nextcloud announcements app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	74946
+installed-size	236666
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-nextcloud_announcements-33.0.11-r0.apk
+checksum	Q1Yhol9ig69u0qvFm+0uv0D7Gcdts=
+dep	nextcloud33	nextcloud33

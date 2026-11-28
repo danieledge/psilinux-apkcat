@@ -1,0 +1,12 @@
+name	singularity-doc
+version	4.4.2-r3
+description	Application containers focused on reproducibility for scientific computing and HPC world. (documentation)
+url	https://www.sylabs.io/singularity/
+license	BSD-3-Clause AND BSD-3-Clause-LBNL
+size	80241
+installed-size	73392
+depends	
+origin	singularity
+repo	community
+file	singularity-doc-4.4.2-r3.apk
+checksum	Q16gXGLrwW06Ps7b5fSzSuUUaaodU=

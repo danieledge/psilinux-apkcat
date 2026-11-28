@@ -1,0 +1,13 @@
+name	perl-convert-asn1
+version	0.37-r0
+description	Convert between perl data structures and ASN.1 encoded packets
+url	https://metacpan.org/release/Convert-ASN1/
+license	GPL-1.0-or-later OR Artistic-1.0-Perl
+size	28267
+installed-size	92211
+depends	perl
+origin	perl-convert-asn1
+repo	main
+file	perl-convert-asn1-0.37-r0.apk
+checksum	Q1bdKtQ37lThyW/ffR1J9zvq85fg4=
+dep	perl	perl

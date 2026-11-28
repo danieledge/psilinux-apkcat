@@ -1,0 +1,12 @@
+name	openresty-dbg
+version	1.31.9.1-r0
+description	Scalable Web Platform by Extending NGINX with Lua (debug symbols)
+url	https://openresty.org/
+license	BSD-2-Clause
+size	6149845
+installed-size	14093756
+depends	!openresty<1.31.9.1-r0 !openresty>1.31.9.1-r0
+origin	openresty
+repo	community
+file	openresty-dbg-1.31.9.1-r0.apk
+checksum	Q1mmQBaEvNNq0lXd5vhcxYu+fG9Uk=

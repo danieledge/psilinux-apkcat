@@ -1,0 +1,12 @@
+name	flatpak-doc
+version	1.16.6_git20261120-r0
+description	Application deployment framework for desktop apps (documentation)
+url	https://flatpak.org/
+license	LGPL-2.1-or-later
+size	102222
+installed-size	95948
+depends	
+origin	flatpak
+repo	community
+file	flatpak-doc-1.16.6_git20261120-r0.apk
+checksum	Q1drn9kuTGHt7EQ98+isssueNOZ0k=

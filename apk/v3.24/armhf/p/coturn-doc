@@ -1,0 +1,12 @@
+name	coturn-doc
+version	4.19.2-r0
+description	Free open source implementation of TURN and STUN Server (documentation)
+url	https://github.com/coturn/coturn
+license	BSD-3-Clause
+size	55565
+installed-size	150449
+depends	
+origin	coturn
+repo	community
+file	coturn-doc-4.19.2-r0.apk
+checksum	Q1/ml+SdD3K5EBszLricTwRQPo5+I=

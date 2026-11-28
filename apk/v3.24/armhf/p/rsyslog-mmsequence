@@ -1,0 +1,14 @@
+name	rsyslog-mmsequence
+version	8.2610.0-r1
+description	rsyslog mmsequence module
+url	https://www.rsyslog.com/
+license	Apache-2.0 AND GPL-3.0-or-later AND LGPL-3.0-or-later
+size	6429
+installed-size	13584
+depends	rsyslog=8.2610.0-r1 so:libc.musl-armhf.so.1
+origin	rsyslog
+repo	main
+file	rsyslog-mmsequence-8.2610.0-r1.apk
+checksum	Q1ufcZ8KkmrvXAj9F+vM5pn+cB3/g=
+dep	rsyslog=8.2610.0-r1	rsyslog
+dep	so:libc.musl-armhf.so.1	musl

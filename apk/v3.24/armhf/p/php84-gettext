@@ -1,0 +1,15 @@
+name	php84-gettext
+version	8.4.28-r0
+description	PHP84 extension: GetText
+url	https://www.php.net/
+license	PHP-3.01 BSD-3-Clause LGPL-2.0-or-later MIT Zend-2.0
+size	6629
+installed-size	13654
+depends	php84-common so:libc.musl-armhf.so.1 so:libintl.so.8
+origin	php84
+repo	community
+file	php84-gettext-8.4.28-r0.apk
+checksum	Q16RkFTAekh3TDBZZ484/ZIHJL0Ok=
+dep	php84-common	php84-common
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libintl.so.8	libintl

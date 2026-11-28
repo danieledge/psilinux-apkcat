@@ -1,0 +1,14 @@
+name	ytnef-dev
+version	2.1.4-r0
+description	TNEF Stream Reader - for winmail.dat files (development files)
+url	https://github.com/Yeraze/ytnef
+license	GPL-2.0-or-later
+size	12282
+installed-size	56897
+depends	ytnef-libs=2.1.4-r0 pkgconfig
+origin	ytnef
+repo	community
+file	ytnef-dev-2.1.4-r0.apk
+checksum	Q1f/4FmrT3bQQa0ra9vTa2TG0jjDY=
+dep	ytnef-libs=2.1.4-r0	ytnef-libs
+dep	pkgconfig	pkgconf

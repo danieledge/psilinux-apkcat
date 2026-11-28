@@ -1,0 +1,15 @@
+name	php83-odbc
+version	8.3.37-r0
+description	PHP83 extension: ODBC
+url	https://www.php.net/
+license	PHP-3.01 BSD-3-Clause LGPL-2.0-or-later MIT Zend-2.0
+size	23507
+installed-size	54607
+depends	php83-common so:libc.musl-armhf.so.1 so:libodbc.so.2
+origin	php83
+repo	community
+file	php83-odbc-8.3.37-r0.apk
+checksum	Q1+jGDQ9mFACJnXWPRnUr6jQ9Xkds=
+dep	php83-common	php83-common
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libodbc.so.2	unixodbc

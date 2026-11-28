@@ -1,0 +1,13 @@
+name	expat-static
+version	2.11.0-r0
+description	XML Parser library written in C (static library)
+url	https://libexpat.github.io/
+license	MIT
+size	77071
+installed-size	187520
+depends	expat-dev
+origin	expat
+repo	main
+file	expat-static-2.11.0-r0.apk
+checksum	Q1Cbk8vJIWv8+AB5oI30XW3Gr2Fk8=
+dep	expat-dev	expat-dev

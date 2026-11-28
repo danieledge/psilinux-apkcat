@@ -1,0 +1,12 @@
+name	libressl-doc
+version	4.3.5-r0
+description	Version of the TLS/crypto stack forked from OpenSSL (documentation)
+url	https://www.libressl.org/
+license	custom
+size	1432008
+installed-size	1380305
+depends	
+origin	libressl
+repo	community
+file	libressl-doc-4.3.5-r0.apk
+checksum	Q1b2HpPJxYqpaxhJlJMKn/F63Vlxw=

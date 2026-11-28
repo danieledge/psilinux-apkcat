@@ -1,0 +1,12 @@
+name	ruby-doc
+version	3.4.13-r0
+description	An object-oriented language for quick and easy programming (documentation)
+url	https://www.ruby-lang.org/
+license	Ruby AND BSD-2-Clause AND MIT
+size	3506956
+installed-size	11838977
+depends	
+origin	ruby
+repo	main
+file	ruby-doc-3.4.13-r0.apk
+checksum	Q1fAKCfaM9MYGb+n5LcEF52AT2cG8=

@@ -1,0 +1,16 @@
+name	freeswitch-perlesl
+version	1.10.12-r8
+description	Freeswitch Perl ESL module
+url	https://www.freeswitch.org/
+license	MPL-1.1
+size	49049
+installed-size	122025
+depends	so:libc.musl-armhf.so.1 so:libgcc_s.so.1 so:libperl.so so:libstdc++.so.6
+origin	freeswitch
+repo	main
+file	freeswitch-perlesl-1.10.12-r8.apk
+checksum	Q1ysOOoTRpX6GDXckhkt+pYRkaz1s=
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libgcc_s.so.1	libgcc
+dep	so:libperl.so	perl
+dep	so:libstdc++.so.6	libstdc++

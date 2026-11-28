@@ -1,0 +1,14 @@
+name	rsyslog-pmaixforwardedfrom
+version	8.2610.0-r1
+description	rsyslog pmaixforwardedfrom module
+url	https://www.rsyslog.com/
+license	Apache-2.0 AND GPL-3.0-or-later AND LGPL-3.0-or-later
+size	4528
+installed-size	9804
+depends	rsyslog=8.2610.0-r1 so:libc.musl-armhf.so.1
+origin	rsyslog
+repo	main
+file	rsyslog-pmaixforwardedfrom-8.2610.0-r1.apk
+checksum	Q1cjTsBmO1zZNqInB9LP4QwwUXqgI=
+dep	rsyslog=8.2610.0-r1	rsyslog
+dep	so:libc.musl-armhf.so.1	musl

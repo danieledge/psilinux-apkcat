@@ -1,0 +1,15 @@
+name	shadow-subids
+version	4.20.4-r0
+description	Utilities for using subordinate UIDs and GIDs
+url	https://github.com/shadow-maint/shadow
+license	BSD-3-Clause
+size	38665
+installed-size	87428
+depends	so:libbsd.so.0 so:libc.musl-armhf.so.1 so:libsubid.so.6
+origin	shadow
+repo	community
+file	shadow-subids-4.20.4-r0.apk
+checksum	Q1Kg4EOX3WtQ9vAiGEv3XbpJEOv3w=
+dep	so:libbsd.so.0	libbsd
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libsubid.so.6	shadow-libs

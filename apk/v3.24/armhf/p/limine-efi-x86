@@ -1,0 +1,12 @@
+name	limine-efi-x86
+version	12.11.2-r0
+description	Modern, secure, portable, multiprotocol bootloader and boot manager (IA-32 EFI image)
+url	https://limine-bootloader.org
+license	BSD-2-Clause
+size	188439
+installed-size	364544
+depends	
+origin	limine
+repo	main
+file	limine-efi-x86-12.11.2-r0.apk
+checksum	Q1ZJWzC3JL0qWZ49TMPawxQQJ+QxE=

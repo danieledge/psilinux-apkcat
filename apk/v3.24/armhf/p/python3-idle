@@ -1,0 +1,15 @@
+name	python3-idle
+version	3.14.10-r2
+description	IDE for Python3 using Tkinter
+url	https://www.python.org/
+license	PSF-2.0
+size	1195797
+installed-size	4175822
+depends	libssl3>=3.3.0 libexpat>=2.9.0 python3-tkinter~3.14.10
+origin	python3
+repo	main
+file	python3-idle-3.14.10-r2.apk
+checksum	Q1tnY5gNXdmG0p18IX4F17VtAFgL0=
+dep	libssl3>=3.3.0	libssl3
+dep	libexpat>=2.9.0	libexpat
+dep	python3-tkinter~3.14.10	python3-tkinter

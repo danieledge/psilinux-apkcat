@@ -1,0 +1,12 @@
+name	nginx-doc
+version	1.30.8-r0
+description	HTTP and reverse proxy server (stable version) (documentation)
+url	https://www.nginx.org/
+license	BSD-2-Clause
+size	206846
+installed-size	564241
+depends	
+origin	nginx
+repo	main
+file	nginx-doc-1.30.8-r0.apk
+checksum	Q1SRVWTc6MrkTFp0S5ON6bE0kZPYM=

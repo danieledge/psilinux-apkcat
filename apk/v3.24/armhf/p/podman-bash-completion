@@ -1,0 +1,12 @@
+name	podman-bash-completion
+version	5.8.11-r0
+description	Bash completions for podman
+url	https://podman.io/
+license	Apache-2.0
+size	6810
+installed-size	32889
+depends	
+origin	podman
+repo	community
+file	podman-bash-completion-5.8.11-r0.apk
+checksum	Q1cSq/cJI9bGHDpI3hXgc8QE73Cr8=

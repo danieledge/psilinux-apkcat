@@ -1,0 +1,12 @@
+name	limine-efi-loongarch64
+version	12.11.2-r0
+description	Modern, secure, portable, multiprotocol bootloader and boot manager (loongarch64 EFI image)
+url	https://limine-bootloader.org
+license	BSD-2-Clause
+size	158401
+installed-size	331776
+depends	
+origin	limine
+repo	main
+file	limine-efi-loongarch64-12.11.2-r0.apk
+checksum	Q1IX9j8rQoKzvVabwBHx2z93W2/qk=

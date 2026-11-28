@@ -1,0 +1,12 @@
+name	glib-doc
+version	2.88.4-r0
+description	Low-level core library that forms the basis for projects such as GTK and GNOME (documentation)
+url	https://developer.gnome.org/glib/
+license	LGPL-2.1-or-later
+size	48507
+installed-size	45042
+depends	
+origin	glib
+repo	main
+file	glib-doc-2.88.4-r0.apk
+checksum	Q1W0RQtp+KSHjyBI0FvIX3TaElRhI=

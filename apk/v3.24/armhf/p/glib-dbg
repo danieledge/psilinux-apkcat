@@ -1,0 +1,12 @@
+name	glib-dbg
+version	2.88.4-r0
+description	Low-level core library that forms the basis for projects such as GTK and GNOME (debug symbols)
+url	https://developer.gnome.org/glib/
+license	LGPL-2.1-or-later
+size	6183299
+installed-size	14708292
+depends	!glib-dev<2.88.4-r0 !glib-dev>2.88.4-r0 !glib<2.88.4-r0 !glib>2.88.4-r0
+origin	glib
+repo	main
+file	glib-dbg-2.88.4-r0.apk
+checksum	Q1I2pAJP34L8fAc68X/4kfKanwQwk=

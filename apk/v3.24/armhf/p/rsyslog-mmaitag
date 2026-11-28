@@ -1,0 +1,15 @@
+name	rsyslog-mmaitag
+version	8.2610.0-r1
+description	rsyslog mmaitag module
+url	https://www.rsyslog.com/
+license	Apache-2.0 AND GPL-3.0-or-later AND LGPL-3.0-or-later
+size	8684
+installed-size	17824
+depends	rsyslog=8.2610.0-r1 so:libc.musl-armhf.so.1 so:libcurl.so.4
+origin	rsyslog
+repo	main
+file	rsyslog-mmaitag-8.2610.0-r1.apk
+checksum	Q19wf699fx6tm/9oe4t0ETcnl/iFc=
+dep	rsyslog=8.2610.0-r1	rsyslog
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libcurl.so.4	libcurl

@@ -1,0 +1,14 @@
+name	libffi
+version	3.8.2-r0
+description	portable, high level programming interface to various calling conventions.
+url	https://sourceware.org/libffi/
+license	MIT
+size	17512
+installed-size	30176
+depends	so:libc.musl-armhf.so.1 so:libgcc_s.so.1
+origin	libffi
+repo	main
+file	libffi-3.8.2-r0.apk
+checksum	Q1ozbiId3EIIHej1kaDgQUr2sPFZQ=
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libgcc_s.so.1	libgcc

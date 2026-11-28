@@ -1,0 +1,12 @@
+name	fuse-overlayfs-doc
+version	1.18-r0
+description	FUSE implementation for overlayfs (documentation)
+url	https://github.com/containers/fuse-overlayfs
+license	GPL-2.0-or-later
+size	4092
+installed-size	2307
+depends	
+origin	fuse-overlayfs
+repo	community
+file	fuse-overlayfs-doc-1.18-r0.apk
+checksum	Q1S+t6i+CNGzJYJuTLw7LbZradED8=

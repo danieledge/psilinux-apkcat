@@ -1,0 +1,12 @@
+name	flatpak-lang
+version	1.16.6_git20261120-r0
+description	Languages for package flatpak
+url	https://flatpak.org/
+license	LGPL-2.1-or-later
+size	837299
+installed-size	2632052
+depends	
+origin	flatpak
+repo	community
+file	flatpak-lang-1.16.6_git20261120-r0.apk
+checksum	Q1xQ+CObwBjSrt32s9pVoIn5YXoEc=

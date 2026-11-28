@@ -1,0 +1,12 @@
+name	py3-pip-doc
+version	26.1.2-r1
+description	Tool for installing and managing Python packages (documentation)
+url	https://pip.pypa.io
+license	MIT
+size	26878
+installed-size	23763
+depends	
+origin	py3-pip
+repo	main
+file	py3-pip-doc-26.1.2-r1.apk
+checksum	Q16NarFzK25d+4jqqu01hyyQF0I14=

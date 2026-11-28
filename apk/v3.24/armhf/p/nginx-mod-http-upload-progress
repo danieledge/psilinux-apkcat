@@ -1,0 +1,14 @@
+name	nginx-mod-http-upload-progress
+version	1.30.8-r0
+description	Nginx third-party module http-upload-progress (version v0.9.4)
+url	https://github.com/masterzen/nginx-upload-progress-module
+license	BSD-2-Clause
+size	9721
+installed-size	18377
+depends	nginx=1.30.8-r0 so:libc.musl-armhf.so.1
+origin	nginx
+repo	main
+file	nginx-mod-http-upload-progress-1.30.8-r0.apk
+checksum	Q1t3MTMcmBJr3hncqghVbaYrKl9hU=
+dep	nginx=1.30.8-r0	nginx
+dep	so:libc.musl-armhf.so.1	musl

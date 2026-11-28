@@ -1,0 +1,14 @@
+name	php83-tokenizer
+version	8.3.37-r0
+description	PHP83 extension: tokenizer
+url	https://www.php.net/
+license	PHP-3.01 BSD-3-Clause LGPL-2.0-or-later MIT Zend-2.0
+size	11925
+installed-size	25944
+depends	php83-common so:libc.musl-armhf.so.1
+origin	php83
+repo	community
+file	php83-tokenizer-8.3.37-r0.apk
+checksum	Q1sP5C1+ly/51x7FZn6sLR5EXuD0A=
+dep	php83-common	php83-common
+dep	so:libc.musl-armhf.so.1	musl

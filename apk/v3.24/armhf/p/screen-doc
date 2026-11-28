@@ -1,0 +1,12 @@
+name	screen-doc
+version	5.0.3-r0
+description	Window manager that multiplexes a physical terminal (documentation)
+url	https://www.gnu.org/software/screen/
+license	GPL-3.0-or-later
+size	57754
+installed-size	55874
+depends	
+origin	screen
+repo	main
+file	screen-doc-5.0.3-r0.apk
+checksum	Q1C5TyFzTc5slMHMKXbv1cpGL6bUs=

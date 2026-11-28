@@ -1,0 +1,13 @@
+name	nextcloud33-privacy
+version	33.0.11-r0
+description	Nextcloud Privacy app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	4005391
+installed-size	18839465
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-privacy-33.0.11-r0.apk
+checksum	Q1EdEQARHxTsFC2TGS1n3V8La9USk=
+dep	nextcloud33	nextcloud33

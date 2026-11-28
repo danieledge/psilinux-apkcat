@@ -1,0 +1,14 @@
+name	libfontenc
+version	1.1.10-r0
+description	X11 font encoding library
+url	https://xorg.freedesktop.org/
+license	MIT
+size	10968
+installed-size	19624
+depends	so:libc.musl-armhf.so.1 so:libz.so.1
+origin	libfontenc
+repo	main
+file	libfontenc-1.1.10-r0.apk
+checksum	Q15c/qj/1/gz6tiCbtaxFuJQ4sB4o=
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libz.so.1	zlib

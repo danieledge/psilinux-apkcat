@@ -1,0 +1,13 @@
+name	openssl-libs-static
+version	3.5.9-r1
+description	Toolkit for Transport Layer Security (TLS) (static library)
+url	https://www.openssl.org/
+license	Apache-2.0
+size	12331119
+installed-size	30820914
+depends	openssl-dev
+origin	openssl
+repo	main
+file	openssl-libs-static-3.5.9-r1.apk
+checksum	Q1RV5fLK/IwTymWktvRkNK+2w3ucY=
+dep	openssl-dev	openssl-dev

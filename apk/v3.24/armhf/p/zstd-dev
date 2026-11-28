@@ -1,0 +1,15 @@
+name	zstd-dev
+version	1.6.0-r1
+description	Zstandard - Fast real-time compression algorithm (development files)
+url	https://facebook.github.io/zstd/
+license	BSD-3-Clause OR GPL-2.0-or-later
+size	56944
+installed-size	219265
+depends	zstd=1.6.0-r1 zstd-libs=1.6.0-r1 pkgconfig
+origin	zstd
+repo	main
+file	zstd-dev-1.6.0-r1.apk
+checksum	Q1VWqftow9WSWsfiBcvD8yDyfd+oo=
+dep	zstd=1.6.0-r1	zstd
+dep	zstd-libs=1.6.0-r1	zstd-libs
+dep	pkgconfig	pkgconf

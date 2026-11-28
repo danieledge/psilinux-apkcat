@@ -1,0 +1,12 @@
+name	netbird-mgmt-openrc
+version	0.81.5-r0
+description	WireGuard-based overlay network and mesh VPN
+url	https://netbird.io/
+license	BSD-3-Clause
+size	1935
+installed-size	493
+depends	
+origin	netbird
+repo	community
+file	netbird-mgmt-openrc-0.81.5-r0.apk
+checksum	Q1slWsbpxid5UdFI6O+RDphuRYSBE=

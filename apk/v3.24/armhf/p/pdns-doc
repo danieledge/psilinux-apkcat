@@ -1,0 +1,12 @@
+name	pdns-doc
+version	5.0.10-r0
+description	PowerDNS Authoritative Server (documentation)
+url	https://www.powerdns.com/
+license	GPL-2.0-only WITH OpenSSL-Exception
+size	42360
+installed-size	81219
+depends	
+origin	pdns
+repo	community
+file	pdns-doc-5.0.10-r0.apk
+checksum	Q19zxLZlckJRe/46BQ52D2QN4NNx8=

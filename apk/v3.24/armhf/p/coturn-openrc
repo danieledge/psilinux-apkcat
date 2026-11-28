@@ -1,0 +1,12 @@
+name	coturn-openrc
+version	4.19.2-r0
+description	Free open source implementation of TURN and STUN Server (OpenRC init scripts)
+url	https://github.com/coturn/coturn
+license	BSD-3-Clause
+size	1765
+installed-size	343
+depends	
+origin	coturn
+repo	community
+file	coturn-openrc-4.19.2-r0.apk
+checksum	Q18e2NtNqtrHcQIiZ5UuILsg/ABEE=

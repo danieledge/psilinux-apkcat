@@ -1,0 +1,14 @@
+name	python3-ndbm
+version	3.14.10-r3
+description	Python stdlib extension module _dbm (dbm.ndbm)
+url	https://www.python.org/
+license	PSF-2.0
+size	7330
+installed-size	13908
+depends	so:libc.musl-armhf.so.1 so:libgdbm_compat.so.4
+origin	python3-extra
+repo	main
+file	python3-ndbm-3.14.10-r3.apk
+checksum	Q1T/NMAGfj1KqVWWHCQ1BBfqRTj1c=
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libgdbm_compat.so.4	gdbm

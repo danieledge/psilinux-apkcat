@@ -1,0 +1,14 @@
+name	snowflake-proxy
+version	2.15.4-r0
+description	Pluggable Transport for Tor using WebRTC - proxy
+url	https://snowflake.torproject.org/
+license	BSD-3-Clause
+size	6265542
+installed-size	16720868
+depends	/bin/sh so:libc.musl-armhf.so.1
+origin	snowflake
+repo	community
+file	snowflake-proxy-2.15.4-r0.apk
+checksum	Q17Wc2+7ttqXE8gtsVjX4yxuzI1ow=
+dep	/bin/sh	busybox-binsh
+dep	so:libc.musl-armhf.so.1	musl

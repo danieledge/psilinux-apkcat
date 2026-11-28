@@ -1,0 +1,13 @@
+name	openvpn-dev
+version	2.7.9-r0
+description	Robust, and highly configurable VPN (Virtual Private Network) (development files)
+url	https://openvpn.net/
+license	GPL-2.0-only WITH openvpn-openssl-exception
+size	9384
+installed-size	31941
+depends	openssl-dev
+origin	openvpn
+repo	main
+file	openvpn-dev-2.7.9-r0.apk
+checksum	Q191ObiE/Rpk9IXpEQA+PIzMeXj/w=
+dep	openssl-dev	openssl-dev

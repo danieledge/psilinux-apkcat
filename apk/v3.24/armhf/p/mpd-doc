@@ -1,0 +1,12 @@
+name	mpd-doc
+version	0.24.20-r0
+description	Music daemon that plays MP3, FLAC, Ogg Vorbis files and Audio CDs (documentation)
+url	https://musicpd.org/
+license	GPL-2.0-or-later
+size	3012050
+installed-size	4473732
+depends	
+origin	mpd
+repo	community
+file	mpd-doc-0.24.20-r0.apk
+checksum	Q1o2QHwldnzV4vD7ewKS/6gt5RfKo=

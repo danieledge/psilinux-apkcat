@@ -1,0 +1,12 @@
+name	freeswitch-dbg
+version	1.10.12-r8
+description	A communications platform written in C from the ground up (debug symbols)
+url	https://www.freeswitch.org/
+license	MPL-1.1
+size	10210812
+installed-size	23291824
+depends	!freeswitch-flite<1.10.12-r8 !freeswitch-flite>1.10.12-r8 !freeswitch-mariadb<1.10.12-r8 !freeswitch-mariadb>1.10.12-r8 !freeswitch-perl<1.10.12-r8 !freeswitch-perl>1.10.12-r8 !freeswitch-perlesl<1.10.12-r8 !freeswitch-perlesl>1.10.12-r8 !freeswitch-pgsql<1.10.12-r8 !freeswitch-pgsql>1.10.12-r8 !freeswitch-python3<1.10.12-r8 !freeswitch-python3>1.10.12-r8 !freeswitch-sangoma<1.10.12-r8 !freeswitch-sangoma>1.10.12-r8 !freeswitch-snmp<1.10.12-r8 !freeswitch-snmp>1.10.12-r8 !freeswitch<1.10.12-r8 !freeswitch>1.10.12-r8
+origin	freeswitch
+repo	main
+file	freeswitch-dbg-1.10.12-r8.apk
+checksum	Q1MSE01HdbVdtyo5bkT4FmBs04bvY=

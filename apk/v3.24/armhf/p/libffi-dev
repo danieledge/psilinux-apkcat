@@ -1,0 +1,15 @@
+name	libffi-dev
+version	3.8.2-r0
+description	portable, high level programming interface to various calling conventions. (development files)
+url	https://sourceware.org/libffi/
+license	MIT
+size	80081
+installed-size	186978
+depends	linux-headers libffi=3.8.2-r0 pkgconfig
+origin	libffi
+repo	main
+file	libffi-dev-3.8.2-r0.apk
+checksum	Q1YGiqixxK6e0DjJ6DKh2VkP6jOsQ=
+dep	linux-headers	linux-headers
+dep	libffi=3.8.2-r0	libffi
+dep	pkgconfig	pkgconf

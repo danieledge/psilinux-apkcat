@@ -1,0 +1,12 @@
+name	podman-fish-completion
+version	5.8.11-r0
+description	Fish completions for podman
+url	https://podman.io/
+license	Apache-2.0
+size	4911
+installed-size	20193
+depends	
+origin	podman
+repo	community
+file	podman-fish-completion-5.8.11-r0.apk
+checksum	Q1+WDaLFxkfPM+/xmNvp6UUWSSL7M=

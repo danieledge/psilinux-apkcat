@@ -1,0 +1,15 @@
+name	rsyslog-mmdblookup
+version	8.2610.0-r1
+description	rsyslog mmdblookup module
+url	https://www.rsyslog.com/
+license	Apache-2.0 AND GPL-3.0-or-later AND LGPL-3.0-or-later
+size	8010
+installed-size	17676
+depends	rsyslog=8.2610.0-r1 so:libc.musl-armhf.so.1 so:libmaxminddb.so.0
+origin	rsyslog
+repo	main
+file	rsyslog-mmdblookup-8.2610.0-r1.apk
+checksum	Q1jyepbQ2VEAAYlGhniFfHMiwq0jE=
+dep	rsyslog=8.2610.0-r1	rsyslog
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libmaxminddb.so.0	libmaxminddb-libs

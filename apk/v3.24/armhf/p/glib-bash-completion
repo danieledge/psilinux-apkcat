@@ -1,0 +1,12 @@
+name	glib-bash-completion
+version	2.88.4-r0
+description	Bash completions for glib
+url	https://developer.gnome.org/glib/
+license	LGPL-2.1-or-later
+size	5110
+installed-size	14605
+depends	
+origin	glib
+repo	main
+file	glib-bash-completion-2.88.4-r0.apk
+checksum	Q1pxOg3TcTXDC/R6KSNWr9EZoFf0c=

@@ -1,0 +1,12 @@
+name	python3-pycache-pyc0
+version	3.14.10-r2
+description	High-level scripting language (.pyc pycache files)
+url	https://www.python.org/
+license	PSF-2.0
+size	4641819
+installed-size	12096113
+depends	
+origin	python3
+repo	main
+file	python3-pycache-pyc0-3.14.10-r2.apk
+checksum	Q1bGN6Akb0Y3NHYcYpvq0FD9322D8=

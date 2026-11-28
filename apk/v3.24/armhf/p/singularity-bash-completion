@@ -1,0 +1,12 @@
+name	singularity-bash-completion
+version	4.4.2-r3
+description	Bash completions for singularity
+url	https://www.sylabs.io/singularity/
+license	BSD-3-Clause AND BSD-3-Clause-LBNL
+size	8982
+installed-size	79365
+depends	
+origin	singularity
+repo	community
+file	singularity-bash-completion-4.4.2-r3.apk
+checksum	Q1Nm6g9YPk2ENIXtUE9QukcE6AhZ4=

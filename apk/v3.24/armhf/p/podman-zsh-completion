@@ -1,0 +1,12 @@
+name	podman-zsh-completion
+version	5.8.11-r0
+description	Zsh completions for podman
+url	https://podman.io/
+license	Apache-2.0
+size	4478
+installed-size	15911
+depends	
+origin	podman
+repo	community
+file	podman-zsh-completion-5.8.11-r0.apk
+checksum	Q1XWXky8QWbynLvA2x8asmIWOv5vQ=

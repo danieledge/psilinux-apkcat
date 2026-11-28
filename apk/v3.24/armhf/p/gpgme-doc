@@ -1,0 +1,12 @@
+name	gpgme-doc
+version	2.3.1-r0
+description	gnupg made easy (documentation)
+url	https://www.gnupg.org/related_software/gpgme/
+license	LGPL-2.1-or-later AND GPL-3.0-or-later
+size	112670
+installed-size	476667
+depends	
+origin	gpgme
+repo	community
+file	gpgme-doc-2.3.1-r0.apk
+checksum	Q1nudC2guz1AH3HQ6ucExyqQizczA=

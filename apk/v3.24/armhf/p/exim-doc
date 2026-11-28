@@ -1,0 +1,12 @@
+name	exim-doc
+version	4.100.2-r0
+description	Message Transfer Agent (documentation)
+url	https://www.exim.org/
+license	GPL-2.0-or-later
+size	29482
+installed-size	27727
+depends	
+origin	exim
+repo	community
+file	exim-doc-4.100.2-r0.apk
+checksum	Q1QOmRCTtZ0i3pTVo0oTKJZuvNPkY=

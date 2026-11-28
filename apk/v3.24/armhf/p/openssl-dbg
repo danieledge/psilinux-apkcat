@@ -1,0 +1,12 @@
+name	openssl-dbg
+version	3.5.9-r1
+description	Toolkit for Transport Layer Security (TLS) (debug symbols)
+url	https://www.openssl.org/
+license	Apache-2.0
+size	9047999
+installed-size	21796228
+depends	!libcrypto3<3.5.9-r1 !libcrypto3>3.5.9-r1 !libssl3<3.5.9-r1 !libssl3>3.5.9-r1 !openssl-fips<3.5.9-r1 !openssl-fips>3.5.9-r1 !openssl<3.5.9-r1 !openssl>3.5.9-r1
+origin	openssl
+repo	main
+file	openssl-dbg-3.5.9-r1.apk
+checksum	Q1Jc71MAu4q8sEh6I1Azde+I8DlrQ=

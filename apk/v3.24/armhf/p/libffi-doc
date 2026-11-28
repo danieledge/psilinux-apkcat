@@ -1,0 +1,12 @@
+name	libffi-doc
+version	3.8.2-r0
+description	portable, high level programming interface to various calling conventions. (documentation)
+url	https://sourceware.org/libffi/
+license	MIT
+size	19143
+installed-size	51395
+depends	
+origin	libffi
+repo	main
+file	libffi-doc-3.8.2-r0.apk
+checksum	Q1jGjBX6VbSEm2S6jpSbzES2FDfL4=

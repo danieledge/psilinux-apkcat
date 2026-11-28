@@ -1,0 +1,16 @@
+name	gpgme-dev
+version	2.3.1-r0
+description	gnupg made easy (development files)
+url	https://www.gnupg.org/related_software/gpgme/
+license	LGPL-2.1-or-later AND GPL-3.0-or-later
+size	199060
+installed-size	613032
+depends	gpgme=2.3.1-r0 pc:gpg-error pc:libassuan pkgconfig
+origin	gpgme
+repo	community
+file	gpgme-dev-2.3.1-r0.apk
+checksum	Q1oDc3rf4+qwBnGKHODRG/cu67dso=
+dep	gpgme=2.3.1-r0	gpgme
+dep	pc:gpg-error	libgpg-error-dev
+dep	pc:libassuan	libassuan-dev
+dep	pkgconfig	pkgconf

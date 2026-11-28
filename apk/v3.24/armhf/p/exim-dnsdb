@@ -1,0 +1,14 @@
+name	exim-dnsdb
+version	4.100.2-r0
+description	EXIM extension: dnsdb
+url	https://www.exim.org/
+license	GPL-2.0-or-later
+size	6493
+installed-size	13556
+depends	exim=4.100.2-r0 so:libc.musl-armhf.so.1
+origin	exim
+repo	community
+file	exim-dnsdb-4.100.2-r0.apk
+checksum	Q1+Bw0zmk2BWpjDv1Vf8x+b/1t9EY=
+dep	exim=4.100.2-r0	exim
+dep	so:libc.musl-armhf.so.1	musl

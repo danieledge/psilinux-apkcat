@@ -1,0 +1,15 @@
+name	rsyslog-impcap
+version	8.2610.0-r1
+description	rsyslog impcap module
+url	https://www.rsyslog.com/
+license	Apache-2.0 AND GPL-3.0-or-later AND LGPL-3.0-or-later
+size	19213
+installed-size	39264
+depends	rsyslog=8.2610.0-r1 so:libc.musl-armhf.so.1 so:libpcap.so.1
+origin	rsyslog
+repo	main
+file	rsyslog-impcap-8.2610.0-r1.apk
+checksum	Q1L4/w5LfKyBqC6gjt6l2rHUW2Ocs=
+dep	rsyslog=8.2610.0-r1	rsyslog
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libpcap.so.1	libpcap

@@ -1,0 +1,12 @@
+name	mariadb-doc
+version	11.8.10-r0
+description	A fast SQL database server (documentation)
+url	https://www.mariadb.org/
+license	GPL-2.0-only
+size	316235
+installed-size	384012
+depends	
+origin	mariadb
+repo	main
+file	mariadb-doc-11.8.10-r0.apk
+checksum	Q1g4x5ILeYPNDrNA3PPQgohnP3POo=

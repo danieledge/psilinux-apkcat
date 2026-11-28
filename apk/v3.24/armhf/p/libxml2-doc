@@ -1,0 +1,12 @@
+name	libxml2-doc
+version	2.13.9-r5
+description	XML parsing library, version 2 (documentation)
+url	https://gitlab.gnome.org/GNOME/libxml2
+license	MIT
+size	296257
+installed-size	2735236
+depends	
+origin	libxml2
+repo	main
+file	libxml2-doc-2.13.9-r5.apk
+checksum	Q1pg1ieZLQp5Gmmt1l66gWoie6aJ4=

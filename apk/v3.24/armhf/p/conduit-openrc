@@ -1,0 +1,12 @@
+name	conduit-openrc
+version	0.10.17-r0
+description	Simple, fast and reliable chat server powered by Matrix (OpenRC init scripts)
+url	https://conduit.rs/
+license	Apache-2.0
+size	1916
+installed-size	466
+depends	
+origin	conduit
+repo	community
+file	conduit-openrc-0.10.17-r0.apk
+checksum	Q1R0it6FmdBa1CHS64YBN6nK71NdU=

@@ -1,0 +1,17 @@
+name	zstd
+version	1.6.0-r1
+description	Zstandard - Fast real-time compression algorithm
+url	https://facebook.github.io/zstd/
+license	BSD-3-Clause OR GPL-2.0-or-later
+size	138536
+installed-size	299466
+depends	zstd-libs=1.6.0-r1 so:libc.musl-armhf.so.1 so:libgcc_s.so.1 so:libstdc++.so.6 so:libzstd.so.1
+origin	zstd
+repo	main
+file	zstd-1.6.0-r1.apk
+checksum	Q1yAfSYNLWJdguSQERwHx23PuJJmE=
+dep	zstd-libs=1.6.0-r1	zstd-libs
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libgcc_s.so.1	libgcc
+dep	so:libstdc++.so.6	libstdc++
+dep	so:libzstd.so.1	zstd-libs

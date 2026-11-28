@@ -1,0 +1,14 @@
+name	pdns-backend-mariadb
+version	5.0.10-r0
+description	mariadb backend module for PowerDNS
+url	https://www.powerdns.com/
+license	GPL-2.0-only WITH OpenSSL-Exception
+size	1292
+installed-size	0
+depends	pdns pdns-backend-mysql
+origin	pdns
+repo	community
+file	pdns-backend-mariadb-5.0.10-r0.apk
+checksum	Q1qX4qq1Jvn1u1JdruYViF6QAoxNw=
+dep	pdns	pdns
+dep	pdns-backend-mysql	pdns-backend-mysql

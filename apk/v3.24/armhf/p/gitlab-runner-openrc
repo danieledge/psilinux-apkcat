@@ -1,0 +1,12 @@
+name	gitlab-runner-openrc
+version	19.6.1-r0
+description	GitLab runner for CI/CD jobs (OpenRC init scripts)
+url	https://docs.gitlab.com/runner/
+license	MIT
+size	2983
+installed-size	2844
+depends	
+origin	gitlab-runner
+repo	community
+file	gitlab-runner-openrc-19.6.1-r0.apk
+checksum	Q1ZX0tJ7kDy7stPI8ZJ0fQD2U9C9M=

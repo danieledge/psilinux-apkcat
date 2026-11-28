@@ -1,0 +1,14 @@
+name	grocy-nginx
+version	4.7.1-r0
+description	Nginx configuration for Grocy
+url	https://grocy.info/
+license	MIT
+size	2344
+installed-size	1024
+depends	nginx !grocy-lighttpd /bin/sh
+origin	grocy
+repo	community
+file	grocy-nginx-4.7.1-r0.apk
+checksum	Q1wMc3KPTTxtmUCLv84XJLpSfOvwM=
+dep	nginx	nginx
+dep	/bin/sh	busybox-binsh

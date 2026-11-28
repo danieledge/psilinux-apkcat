@@ -1,0 +1,12 @@
+name	flatpak-bash-completion
+version	1.16.6_git20261120-r0
+description	Bash completions for flatpak
+url	https://flatpak.org/
+license	LGPL-2.1-or-later
+size	2026
+installed-size	1353
+depends	
+origin	flatpak
+repo	community
+file	flatpak-bash-completion-1.16.6_git20261120-r0.apk
+checksum	Q1+3CBN7nLZ4JgGPpDoKHuyoM/mig=

@@ -1,0 +1,14 @@
+name	python3-dev
+version	3.14.10-r2
+description	High-level scripting language (development files)
+url	https://www.python.org/
+license	PSF-2.0
+size	56688455
+installed-size	97973222
+depends	python3=3.14.10-r2 pkgconfig
+origin	python3
+repo	main
+file	python3-dev-3.14.10-r2.apk
+checksum	Q1npJ0KHr3xJymGQmF37XVFimnh40=
+dep	python3=3.14.10-r2	python3
+dep	pkgconfig	pkgconf

@@ -1,0 +1,12 @@
+name	php84-doc
+version	8.4.28-r0
+description	The PHP84 language runtime engine (documentation)
+url	https://www.php.net/
+license	PHP-3.01 BSD-3-Clause LGPL-2.0-or-later MIT Zend-2.0
+size	106211
+installed-size	305514
+depends	
+origin	php84
+repo	community
+file	php84-doc-8.4.28-r0.apk
+checksum	Q1ga6by9Mw3D5dCD/atQMN6xCJZfU=

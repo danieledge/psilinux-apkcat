@@ -1,0 +1,13 @@
+name	nextcloud33-files_pdfviewer
+version	33.0.11-r0
+description	Nextcloud PDF viewer app
+url	https://nextcloud.com/
+license	AGPL-3.0-only
+size	10874051
+installed-size	44355232
+depends	nextcloud33
+origin	nextcloud33
+repo	community
+file	nextcloud33-files_pdfviewer-33.0.11-r0.apk
+checksum	Q1WyAelFSs7FxDybiLBNE1Qny6MxM=
+dep	nextcloud33	nextcloud33

@@ -1,0 +1,12 @@
+name	shadow-dbg
+version	4.20.4-r0
+description	PAM-using login and passwd utilities (usermod, useradd, ...) (debug symbols)
+url	https://github.com/shadow-maint/shadow
+license	BSD-3-Clause
+size	2223604
+installed-size	5510956
+depends	!shadow-conv<4.20.4-r0 !shadow-conv>4.20.4-r0 !shadow-libs<4.20.4-r0 !shadow-libs>4.20.4-r0 !shadow-login<4.20.4-r0 !shadow-login>4.20.4-r0 !shadow-subids<4.20.4-r0 !shadow-subids>4.20.4-r0 !shadow<4.20.4-r0 !shadow>4.20.4-r0
+origin	shadow
+repo	community
+file	shadow-dbg-4.20.4-r0.apk
+checksum	Q1YxBJeW2wJIIgzeJxlE3q4ijZhT8=

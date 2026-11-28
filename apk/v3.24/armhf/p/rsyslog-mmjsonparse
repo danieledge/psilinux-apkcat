@@ -1,0 +1,15 @@
+name	rsyslog-mmjsonparse
+version	8.2610.0-r1
+description	rsyslog mmjsonparse module
+url	https://www.rsyslog.com/
+license	Apache-2.0 AND GPL-3.0-or-later AND LGPL-3.0-or-later
+size	7490
+installed-size	13936
+depends	rsyslog=8.2610.0-r1 so:libc.musl-armhf.so.1 so:libfastjson.so.4
+origin	rsyslog
+repo	main
+file	rsyslog-mmjsonparse-8.2610.0-r1.apk
+checksum	Q1zs10cef91U6vaIvMvsHvGwhBL+4=
+dep	rsyslog=8.2610.0-r1	rsyslog
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libfastjson.so.4	libfastjson

@@ -1,0 +1,13 @@
+name	limine-bios-cd
+version	12.11.2-r0
+description	Modern, secure, portable, multiprotocol bootloader and boot manager (BIOS CD binary)
+url	https://limine-bootloader.org
+license	BSD-2-Clause
+size	27764
+installed-size	28672
+depends	limine-bios=12.11.2-r0
+origin	limine
+repo	main
+file	limine-bios-cd-12.11.2-r0.apk
+checksum	Q173JAGIrM/YXLojJCdxtqtCyIS9E=
+dep	limine-bios=12.11.2-r0	limine-bios

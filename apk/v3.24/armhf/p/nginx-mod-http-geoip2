@@ -1,0 +1,15 @@
+name	nginx-mod-http-geoip2
+version	1.30.8-r0
+description	Nginx third-party module http-geoip2 (version 3.4)
+url	https://github.com/leev/ngx_http_geoip2_module
+license	BSD-2-Clause
+size	7300
+installed-size	13741
+depends	nginx=1.30.8-r0 so:libc.musl-armhf.so.1 so:libmaxminddb.so.0
+origin	nginx
+repo	main
+file	nginx-mod-http-geoip2-1.30.8-r0.apk
+checksum	Q1ofe4g5kxb9cAiZYAx5Z2cUuAgaI=
+dep	nginx=1.30.8-r0	nginx
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libmaxminddb.so.0	libmaxminddb-libs

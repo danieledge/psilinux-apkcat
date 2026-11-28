@@ -1,0 +1,16 @@
+name	perl-json-xs
+version	4.06-r0
+description	Fast JSON serialising/deserialising
+url	https://metacpan.org/release/JSON-XS/
+license	GPL-1.0-or-later OR Artistic-1.0-Perl
+size	54345
+installed-size	132031
+depends	perl perl-common-sense perl-types-serialiser so:libc.musl-armhf.so.1
+origin	perl-json-xs
+repo	community
+file	perl-json-xs-4.06-r0.apk
+checksum	Q1pN5W2xDIz9PzWQ1+18PTjtUSLBc=
+dep	perl	perl
+dep	perl-common-sense	perl-common-sense
+dep	perl-types-serialiser	perl-types-serialiser
+dep	so:libc.musl-armhf.so.1	musl

@@ -1,0 +1,12 @@
+name	clamav-doc
+version	1.4.7-r0
+description	An anti-virus toolkit for UNIX eis-ng backport (documentation)
+url	https://www.clamav.net/
+license	GPL-2.0-only
+size	2980151
+installed-size	9348400
+depends	
+origin	clamav
+repo	community
+file	clamav-doc-1.4.7-r0.apk
+checksum	Q1SC2NFcD2MiVfvRv0DvQ5Shonedw=

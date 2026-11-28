@@ -1,0 +1,15 @@
+name	freeswitch-pgsql
+version	1.10.12-r8
+description	Freeswitch PostgreSQL Module
+url	https://www.freeswitch.org/
+license	MPL-1.1
+size	8133
+installed-size	17992
+depends	so:libc.musl-armhf.so.1 so:libfreeswitch.so.1 so:libpq.so.5
+origin	freeswitch
+repo	main
+file	freeswitch-pgsql-1.10.12-r8.apk
+checksum	Q1HVicyl083RJB5VxusCAlBTQF9sU=
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libfreeswitch.so.1	freeswitch
+dep	so:libpq.so.5	libpq

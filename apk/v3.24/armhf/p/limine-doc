@@ -1,0 +1,12 @@
+name	limine-doc
+version	12.11.2-r0
+description	Modern, secure, portable, multiprotocol bootloader and boot manager (documentation)
+url	https://limine-bootloader.org
+license	BSD-2-Clause
+size	34491
+installed-size	103617
+depends	
+origin	limine
+repo	main
+file	limine-doc-12.11.2-r0.apk
+checksum	Q1ZCka4zxezP+G2PthK/n9wBprCvU=

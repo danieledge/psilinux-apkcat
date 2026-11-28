@@ -1,0 +1,12 @@
+name	gnutls-doc
+version	3.8.14-r0
+description	TLS protocol implementation (documentation)
+url	https://www.gnutls.org/
+license	LGPL-2.1-or-later
+size	1923644
+installed-size	3507245
+depends	
+origin	gnutls
+repo	main
+file	gnutls-doc-3.8.14-r0.apk
+checksum	Q1eIJH0pbzpOVwTk2nTY3m+BWmfBE=

@@ -1,0 +1,14 @@
+name	nginx-mod-http-redis2
+version	1.30.8-r0
+description	Nginx third-party module http-redis2 (version v0.15)
+url	https://github.com/openresty/redis2-nginx-module
+license	BSD-2-Clause
+size	9728
+installed-size	18185
+depends	nginx=1.30.8-r0 so:libc.musl-armhf.so.1
+origin	nginx
+repo	main
+file	nginx-mod-http-redis2-1.30.8-r0.apk
+checksum	Q1ksHWtdqEhokO3ktU+hjTENyH0VY=
+dep	nginx=1.30.8-r0	nginx
+dep	so:libc.musl-armhf.so.1	musl

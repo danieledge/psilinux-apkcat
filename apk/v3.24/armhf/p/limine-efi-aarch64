@@ -1,0 +1,12 @@
+name	limine-efi-aarch64
+version	12.11.2-r0
+description	Modern, secure, portable, multiprotocol bootloader and boot manager (aarch64 EFI image)
+url	https://limine-bootloader.org
+license	BSD-2-Clause
+size	152606
+installed-size	315392
+depends	
+origin	limine
+repo	main
+file	limine-efi-aarch64-12.11.2-r0.apk
+checksum	Q1TRJqIB+xQeTCMQmfpgdKsxjGUZM=

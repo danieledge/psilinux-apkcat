@@ -1,0 +1,14 @@
+name	podman-docker-doc
+version	5.8.11-r0
+description	Emulate Docker CLI using Podman (documentation)
+url	https://podman.io/
+license	Apache-2.0
+size	14987
+installed-size	1
+depends	podman-doc podman-doc=5.8.11-r0
+origin	podman
+repo	community
+file	podman-docker-doc-5.8.11-r0.apk
+checksum	Q1cTX6R0RPVMgeIQ7mGohpm4BUdIY=
+dep	podman-doc	podman-doc
+dep	podman-doc=5.8.11-r0	podman-doc

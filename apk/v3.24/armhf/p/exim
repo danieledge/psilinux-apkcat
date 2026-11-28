@@ -1,0 +1,22 @@
+name	exim
+version	4.100.2-r0
+description	Message Transfer Agent
+url	https://www.exim.org/
+license	GPL-2.0-or-later
+size	734008
+installed-size	1562573
+depends	ca-certificates /bin/sh so:libc.musl-armhf.so.1 so:libcrypto.so.3 so:libidn.so.12 so:libidn2.so.0 so:libpcre2-8.so.0 so:libspf2.so.2 so:libssl.so.3 so:libtdb.so.1
+origin	exim
+repo	community
+file	exim-4.100.2-r0.apk
+checksum	Q1j8lZhZsbrC/nPV6q9AvjqLiQISY=
+dep	ca-certificates	ca-certificates
+dep	/bin/sh	busybox-binsh
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libcrypto.so.3	libcrypto3
+dep	so:libidn.so.12	libidn
+dep	so:libidn2.so.0	libidn2
+dep	so:libpcre2-8.so.0	pcre2
+dep	so:libspf2.so.2	libspf2
+dep	so:libssl.so.3	libssl3
+dep	so:libtdb.so.1	tdb-libs

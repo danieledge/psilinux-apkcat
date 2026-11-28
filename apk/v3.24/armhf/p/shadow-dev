@@ -1,0 +1,13 @@
+name	shadow-dev
+version	4.20.4-r0
+description	PAM-using login and passwd utilities (usermod, useradd, ...) (development files)
+url	https://github.com/shadow-maint/shadow
+license	BSD-3-Clause
+size	364858
+installed-size	1127182
+depends	shadow-libs=4.20.4-r0
+origin	shadow
+repo	community
+file	shadow-dev-4.20.4-r0.apk
+checksum	Q1DgsRR2n5qjyRkClNwW2ZQ4J3FqM=
+dep	shadow-libs=4.20.4-r0	shadow-libs

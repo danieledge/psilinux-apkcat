@@ -1,0 +1,12 @@
+name	shadow-login-doc
+version	4.20.4-r0
+description	Login utils from shadow package (documentation)
+url	https://github.com/shadow-maint/shadow
+license	BSD-3-Clause
+size	28309
+installed-size	25708
+depends	!util-linux-login-doc
+origin	shadow
+repo	community
+file	shadow-login-doc-4.20.4-r0.apk
+checksum	Q1mhWBEe0ImYBSGbsTq8DqEI5pgD4=

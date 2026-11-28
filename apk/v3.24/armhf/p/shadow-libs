@@ -1,0 +1,16 @@
+name	shadow-libs
+version	4.20.4-r0
+description	PAM-using login and passwd utilities (usermod, useradd, ...) (libraries)
+url	https://github.com/shadow-maint/shadow
+license	BSD-3-Clause
+size	47126
+installed-size	111020
+depends	so:libbsd.so.0 so:libc.musl-armhf.so.1 so:libpam.so.0 so:libpam_misc.so.0
+origin	shadow
+repo	community
+file	shadow-libs-4.20.4-r0.apk
+checksum	Q1Lga16mJ1lp35R3hwRcGEHL5pQig=
+dep	so:libbsd.so.0	libbsd
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libpam.so.0	linux-pam
+dep	so:libpam_misc.so.0	linux-pam

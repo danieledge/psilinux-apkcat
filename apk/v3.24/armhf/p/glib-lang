@@ -1,0 +1,12 @@
+name	glib-lang
+version	2.88.4-r0
+description	Languages for package glib
+url	https://developer.gnome.org/glib/
+license	LGPL-2.1-or-later
+size	3109618
+installed-size	10236823
+depends	
+origin	glib
+repo	main
+file	glib-lang-2.88.4-r0.apk
+checksum	Q1ZNnbrpXUxN0S8+IPxyOQorcDIy8=

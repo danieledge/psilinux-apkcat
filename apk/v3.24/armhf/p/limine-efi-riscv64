@@ -1,0 +1,12 @@
+name	limine-efi-riscv64
+version	12.11.2-r0
+description	Modern, secure, portable, multiprotocol bootloader and boot manager (riscv64 EFI image)
+url	https://limine-bootloader.org
+license	BSD-2-Clause
+size	161416
+installed-size	290816
+depends	
+origin	limine
+repo	main
+file	limine-efi-riscv64-12.11.2-r0.apk
+checksum	Q1H3UdETagw4p45aBrSDLtlB19Mvs=

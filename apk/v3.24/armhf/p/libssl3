@@ -1,0 +1,15 @@
+name	libssl3
+version	3.5.9-r1
+description	SSL shared libraries
+url	https://www.openssl.org/
+license	Apache-2.0
+size	382548
+installed-size	827872
+depends	libcrypto3=3.5.9-r1 so:libc.musl-armhf.so.1 so:libcrypto.so.3
+origin	openssl
+repo	main
+file	libssl3-3.5.9-r1.apk
+checksum	Q1DtT5iWw2pwFgO2UgW2OzsaQH+0U=
+dep	libcrypto3=3.5.9-r1	libcrypto3
+dep	so:libc.musl-armhf.so.1	musl
+dep	so:libcrypto.so.3	libcrypto3

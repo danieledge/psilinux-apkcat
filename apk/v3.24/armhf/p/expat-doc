@@ -1,0 +1,12 @@
+name	expat-doc
+version	2.11.0-r0
+description	XML Parser library written in C (documentation)
+url	https://libexpat.github.io/
+license	MIT
+size	46159
+installed-size	135907
+depends	
+origin	expat
+repo	main
+file	expat-doc-2.11.0-r0.apk
+checksum	Q11wPmbaDZQcsjyRejxt4hXYPGldk=

@@ -1,0 +1,12 @@
+name	openvpn-doc
+version	2.7.9-r0
+description	Robust, and highly configurable VPN (Virtual Private Network) (documentation)
+url	https://openvpn.net/
+license	GPL-2.0-only WITH openvpn-openssl-exception
+size	234094
+installed-size	493762
+depends	
+origin	openvpn
+repo	main
+file	openvpn-doc-2.7.9-r0.apk
+checksum	Q1iwS0xk4wVJ2a6TNmkzJmlPKkqDA=

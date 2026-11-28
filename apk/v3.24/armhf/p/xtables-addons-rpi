@@ -1,0 +1,13 @@
+name	xtables-addons-rpi
+version	6.18.64-r0
+description	Iptables extensions kernel modules
+url	https://inai.de/projects/xtables-addons/
+license	GPL-2.0-or-later
+size	84034
+installed-size	80756
+depends	linux-rpi=6.18.64-r0
+origin	xtables-addons-rpi
+repo	main
+file	xtables-addons-rpi-6.18.64-r0.apk
+checksum	Q1IJ+Faxh5X4V0GT1zoZbfTfR9Grs=
+dep	linux-rpi=6.18.64-r0	linux-rpi

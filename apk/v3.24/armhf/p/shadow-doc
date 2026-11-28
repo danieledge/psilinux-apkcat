@@ -1,0 +1,12 @@
+name	shadow-doc
+version	4.20.4-r0
+description	PAM-using login and passwd utilities (usermod, useradd, ...) (documentation)
+url	https://github.com/shadow-maint/shadow
+license	BSD-3-Clause
+size	70731
+installed-size	66590
+depends	
+origin	shadow
+repo	community
+file	shadow-doc-4.20.4-r0.apk
+checksum	Q19XP6qsadlzr+Cr9Lj3sGV1wPlNA=

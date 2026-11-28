@@ -1,0 +1,12 @@
+name	pnpm-zsh-completion
+version	11.29.0-r0
+description	Zsh completions for pnpm
+url	https://pnpm.io
+license	MIT
+size	2060
+installed-size	839
+depends	
+origin	pnpm
+repo	community
+file	pnpm-zsh-completion-11.29.0-r0.apk
+checksum	Q1Gg5VBi43rpNWZpNJ4WTuDSjgrqw=
